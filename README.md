@@ -1,6 +1,8 @@
 <p align="center">
-<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/70fb0dfa-e009-4103-a7b7-db1eb7b81610" />
-
+    <img
+      src="https://api.tokenphage.com/badge/dohy-eon?theme=grass-claude"
+      alt="Tokenphage"
+    />
 </p>
 
 <p align="center">
@@ -46,7 +48,6 @@ Also interested in design systems, frontend architecture, and creating products 
 </div>
 
 ---
-
 <h3 align="center">Stats</h3>
 
 <p align="center">
@@ -54,11 +55,11 @@ Also interested in design systems, frontend architecture, and creating products 
     src="https://devstats-taupe.vercel.app/api/card?username=dohy-eon&theme=light&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=430&v=2"
     alt="stats"
   />
-
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/dohy-eon"
       width="360"
     />
   </a>
+  <br />
 </p>
