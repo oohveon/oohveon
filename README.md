@@ -1,11 +1,6 @@
 <p align="center">
-    <img
-      src="https://api.tokenphage.com/badge/oohveon?theme=grass-claude"
-      alt="Tokenphage"
-    />
-</p>
+    <img width="736" height="223" alt="aa00e55c7663560b42f3f4c34ee0d779 1" src="https://github.com/user-attachments/assets/af4eedeb-9f19-4543-bc4c-f5023f96ed8c" /> <br>
 
-<p align="center">
   <a href="https://hyen.site">
     <img src="https://img.shields.io/badge/Blog-1a1c20?style=for-the-badge"/>
   </a>
@@ -20,16 +15,12 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-Frontend Developer creating thoughtful and intuitive interfaces.
+    사용자가 직관적으로 이해하고 사용할 수 있는 인터페이스를 만드는 프론트엔드 개발자입니다.<br>
+    <sub>Frontend Developer creating thoughtful and intuitive interfaces.</sub>
 </p>
-
 <p align="center">
-Bringing together design decisions, product intentions,<br/>
-and engineering into experiences users can feel.
-</p>
-
-<p align="center">
-Also interested in design systems, frontend architecture, and creating products that feel intuitive and refined.
+    디자인에 대한 고민과 제품이 추구하는 방향, 그리고 기술적인 요소를 연결하여 사용자가 직접 체감할 수 있는 경험을 만들어 가고자 합니다.<br>
+    <sub>Bringing together design decisions, product intentions and engineering into experiences users can feel.</sub>
 </p>
 
 ---  
