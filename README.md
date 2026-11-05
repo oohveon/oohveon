@@ -15,8 +15,8 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-    사용자가 직관적으로 이해하고 사용할 수 있는 인터페이스를 만드는 프론트엔드 개발자입니다.<br>
-    <sub>Frontend Developer creating thoughtful and intuitive interfaces.</sub>
+    사용자의 문제를 발견하고, 직관적인 경험으로 해결하는 프론트엔드 엔지니어입니다.<br>
+    <sub>Frontend engineer focused on solving real user problems through intuitive experiences.</sub>
 </p>
 <p align="center">
     디자인에 대한 고민과 제품이 추구하는 방향, 그리고 기술적인 요소를 연결하여 사용자가 직접 체감할 수 있는 경험을 만들어 가고자 합니다.<br>
