@@ -31,6 +31,7 @@
 
 | Project                                                                                                                  | Contribution                                                        |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **[daangn/seed-design](https://github.com/daangn/seed-design/pull/1403)**                                                     | Improved IdentityPlaceholder usage and accessibility documentation. |
 | **[toss/es-hangul](https://github.com/toss/es-hangul/pull/382)**                                                              | Proposed and implemented `keepNonHangul` option for `getChoseong`   |
 | **[javascript-tutorial/ko.javascript.info](https://github.com/javascript-tutorial/ko.javascript.info/pull/1848)**                            | Korean translation · documentation sync · merge conflict resolution |
 | **[reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/commits/main/?author=oohveon)**                                | Korean translation of the official React documentation              |
