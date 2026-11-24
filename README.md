@@ -41,7 +41,6 @@
 
 ---
 <!-- OHAASA:START -->
-<h3 align="center">오늘의 오하아사 ☆</h3>
 <p align="center">
   <a href="https://www.asahi.co.jp/ohaasa/week/horoscope/">
     <img src="assets/ohaasa-today.svg" width="736" alt="매일 바뀌는 오하아사 별자리 순위와 오늘의 운세" />
@@ -55,12 +54,13 @@
 <p align="center">
   <img
     src="https://devstats-taupe.vercel.app/api/card?username=oohveon&theme=light&track=https://open.spotify.com/track/4g29yTcJeT0Op12okfXkJh?si=760a432a78ec49d1&height=180&width=430&v=2"
-    alt="stats"
+    width="400"
+    alt="GitHub 활동 통계"
   />
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/oohveon"
-      width="360"
+      width="320"
     />
   </a>
   <br />
