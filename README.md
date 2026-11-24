@@ -40,15 +40,7 @@
 </div>
 
 ---
-<!-- OHAASA:START -->
-<p align="center">
-  <a href="https://www.asahi.co.jp/ohaasa/week/horoscope/">
-    <img src="assets/ohaasa-today.svg" width="736" alt="매일 바뀌는 오하아사 별자리 순위와 오늘의 운세" />
-  </a>
-</p>
-<!-- OHAASA:END -->
 
----
 <h3 align="center">Stats</h3>
 
 <p align="center">
